@@ -23,6 +23,8 @@ public class Mensalidades_de_plano_de_saude_IF {
 		}else {
 			System.out.println("Valor a pagar 400,00");
 		}
+		
+		input.close();
 	}
 
 }
